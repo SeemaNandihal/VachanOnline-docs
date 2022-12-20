@@ -1,0 +1,53 @@
+{
+  "VachanOnline": [
+    {
+      "type": "doc",
+      "label": "Introduction",
+      "id" : "p0-1-Introduction"
+    },
+    {
+      "type": "doc",
+      "label": "Objective",
+      "id": "p1-1-Objective"
+    },
+    {
+      "type": "category",
+      "label": "Home Page",
+      "items": [
+        "Home Page/p2-1-Sign-In",
+        "Home Page/p2-2-Sign-Language Bible",
+        "Home Page/p2-3-Bible-Stories",
+        "Home Page/p2-4-Bible-Verse",
+        "Home Page/p2-5-Study-the-Bible",
+        "Home Page/p2-6-Feedback-form"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "The Landing Page",
+      "items": [
+        "The Landing Page/p3-1-Primary-Navigation",
+        "The Landing Page/p3-2-Secondary-Navigation",
+        {
+          "Side Bar Navigation": [
+            "The Landing Page/Side Bar Navigation/p4-1-Search-Bible",
+            "The Landing Page/Side Bar Navigation/p4-2-Parallel-Bible",
+            "The Landing Page/Side Bar Navigation/p4-3-Commentaries",
+            "The Landing Page/Side Bar Navigation/p4-4-Sign-Language-Bible",
+            "The Landing Page/Side Bar Navigation/p4-5-Infographics",
+            "The Landing Page/Side Bar Navigation/p4-6-Audio-Bible",
+            "The Landing Page/Side Bar Navigation/p4-7-Videos",
+            "The Landing Page/Side Bar Navigation/p4-8-Reading-plan",
+            "The Landing Page/Side Bar Navigation/p4-9-Dictionaries",
+            "The Landing Page/Side Bar Navigation/p4-10-Bookmarks-Highlights-Notes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "doc",
+      "label": "Technical Assistance",
+      "id": "p5-1-Technical Assistance"
+    }
+  ]
+}
